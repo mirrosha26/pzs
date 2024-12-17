@@ -1,0 +1,22 @@
+# Android Studio/IntelliJ
+*.iml
+.gradle
+local.properties
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/
+.vscode/
+
+# Общие файлы сборки
+build/
+captures/
+.externalNativeBuild
+.cxx
+
+# Общие файлы ОС
+.DS_Store
+Thumbs.db

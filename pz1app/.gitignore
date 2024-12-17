@@ -1,0 +1,41 @@
+# Gradle файлы
+.gradle/
+build/
+/captures/
+
+# IDE
+*.iml
+.idea/
+local.properties
+
+# Android
+/app/build/
+/app/release/
+
+# Сгенерированные файлы
+bin/
+gen/
+
+# Log файлы
+*.log
+
+# Android Studio Navigation editor
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Keystore файлы
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Misc
+.DS_Store
+Thumbs.db
