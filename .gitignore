@@ -16,6 +16,11 @@ build/
 captures/
 .externalNativeBuild
 .cxx
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
 
 # Общие файлы ОС
 .DS_Store
