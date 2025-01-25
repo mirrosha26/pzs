@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Text</string>
+    <string name="long_text">Травка <i>зеленеет</i>,\n<b>Солнышко</b> блестит;\nЛасточка с <u>весною</u>\nВ сени к нам летит.\n\nС нею <b>солнце</b> краше\nИ <i>весна милей</i>...\n<u>Прощебечь</u> с дороги\nНам привет скорей!</string>
+</resources>
