@@ -31,3 +31,10 @@
 <img src="media/pz_4app/screen.png" width="600" />
 
 Исходный код приложения: [/pz43](/pz43)
+
+
+
+## ПЗ 5
+<img src="media/pz_5app/screen.png" width="300" />
+
+Исходный код приложения: [/pz35V](/pz35V)
